@@ -1,0 +1,1 @@
+This is an installation-free, web based solution to create and edit the configuration file for RAIL (The Ragnarok AI)
